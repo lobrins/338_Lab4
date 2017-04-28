@@ -1,0 +1,16 @@
+.if-section {
+  background-color: black;
+}
+
+.if-section img {
+  width: 300px;
+}
+
+.if-body-copy {
+  color: white;
+  text-align: right;
+  width: 400px;
+  position: relative;
+  top: -200px;
+
+}
