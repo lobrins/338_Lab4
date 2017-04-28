@@ -1,5 +1,6 @@
 .if-section {
   background-color: black;
+  height: 380px;
 }
 
 .if-section img {
@@ -20,9 +21,12 @@ h1 {
 
 #logo {
   width: 200px;
+  margin-left: 500px;
+  margin-top: -300px;
 }
 
 h2 {
   color: grey;
   text-align: center;
+  margin-top: -10px;
 }
